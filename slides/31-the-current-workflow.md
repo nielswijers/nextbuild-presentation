@@ -1,5 +1,5 @@
 # The good 'ld workflow
-<img src="/assets/images/workflow.svg" />
+<img src="assets/images/workflow.svg" />
 
 Note:
 - Explain a request

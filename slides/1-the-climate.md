@@ -1,4 +1,4 @@
-<img src="/assets/images/no-flash.png" />
+<img src="assets/images/no-flash.png" />
 
 Note:
 - Tell about flash was dying

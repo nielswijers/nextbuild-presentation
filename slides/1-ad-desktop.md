@@ -1,4 +1,4 @@
-<img src="/assets/images/ads-desktop.svg">
+<img src="assets/images/ads-desktop.svg">
 
 Note:
 - Tell about display advertising

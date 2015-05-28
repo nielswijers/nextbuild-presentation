@@ -5,34 +5,34 @@
     {
         "filename": "0-about-me.md",
         "attr": {
-            "data-background-image": "../assets/images/niels.jpg"
+            "data-background-image": "..assets/images/niels.jpg"
         }
     },
     {
         "filename": "0-about-blue-mango.md",
         "attr": {
-            "data-background-image": "../assets/images/BG_image_6.jpg"
+            "data-background-image": "..assets/images/BG_image_6.jpg"
         }
     },
     "1-ad-desktop.md",
     {
         "filename": "1-the-climate.md",
         "attr": {
-            "data-background-image": "../assets/images/steve-jobs.jpg"
+            "data-background-image": "..assets/images/steve-jobs.jpg"
         }
     },
     "1-ad-mobile.md",
     {
         "filename": "1-the-problem.md",
         "attr": {
-            "data-background-image": "/assets/images/frustrated-designer.jpg"
+            "data-background-image": "assets/images/frustrated-designer.jpg"
         }
     },
     "2-the-reason.md",
     {
         "filename": "2-the-preview.md",
         "attr": {
-            "data-background-image": "/assets/images/ideas.jpg"
+            "data-background-image": "assets/images/ideas.jpg"
         }
     },
     "31-the-idea.md",
@@ -40,14 +40,14 @@
     {
         "filename": "31-preconditions.html",
         "attr": {
-            "data-background-image": "/assets/images/not-simple.jpg"
+            "data-background-image": "assets/images/not-simple.jpg"
         }
     },
     "1-the-solution.md",
     {
         "filename": "1-splash.md",
         "attr": {
-            "data-background-video": "/assets/splash.mp4",
+            "data-background-video": "assets/splash.mp4",
             "data-background-video-loop": true
         }
     },

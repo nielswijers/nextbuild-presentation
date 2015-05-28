@@ -1,4 +1,4 @@
-<img src="/assets/images/about.svg">
+<img src="assets/images/about.svg">
 
 Note:
 

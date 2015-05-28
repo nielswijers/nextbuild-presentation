@@ -1,1 +1,1 @@
-<img src="/assets/images/the-preview.svg" />
+<img src="assets/images/the-preview.svg" />

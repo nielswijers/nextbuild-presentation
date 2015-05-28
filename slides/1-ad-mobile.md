@@ -1,4 +1,4 @@
-<img src="/assets/images/ads-mobile.svg">
+<img src="assets/images/ads-mobile.svg">
 
 Note:
 - Tell about the implications

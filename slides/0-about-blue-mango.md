@@ -1,4 +1,4 @@
-<img src="/assets/images/about-bluemango.svg">
+<img src="assets/images/about-bluemango.svg">
 
 note:
 - Explain Blue Mango
