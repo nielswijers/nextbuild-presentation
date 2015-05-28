@@ -5,20 +5,20 @@
     {
         "filename": "0-about-me.md",
         "attr": {
-            "data-background-image": "..assets/images/niels.jpg"
+            "data-background-image": "assets/images/niels.jpg"
         }
     },
     {
         "filename": "0-about-blue-mango.md",
         "attr": {
-            "data-background-image": "..assets/images/BG_image_6.jpg"
+            "data-background-image": "assets/images/BG_image_6.jpg"
         }
     },
     "1-ad-desktop.md",
     {
         "filename": "1-the-climate.md",
         "attr": {
-            "data-background-image": "..assets/images/steve-jobs.jpg"
+            "data-background-image": "assets/images/steve-jobs.jpg"
         }
     },
     "1-ad-mobile.md",
