@@ -252,6 +252,14 @@
                 
                     
                         
+    <section data-background-video="assets/ghgcomp.mp4" data-background-video-loop="true" data-markdown="slides/ff404.md"></section>
+
+
+                    
+                    
+                
+                    
+                        
     <section data-markdown="slides/5-call-to-action.md"></section>
 
 
@@ -296,12 +304,14 @@
             });
 
             Reveal.addEventListener( 'slidechanged', function( event ) {
-                var $frames = $('.present .frames');
-                if($frames.length > 0){
-                    var parent = $frames.parent()
+
+
+                var $frame = $('.present .present iframe');
+                if($frame.length > 0){
+                    var parent = $frame.parent()
                     console.log(parent)
-                    $frames.remove();
-                    $frames.appendTo(parent);
+                    $frame.remove();
+                    $frame.appendTo(parent);
                 }
             });
         </script>

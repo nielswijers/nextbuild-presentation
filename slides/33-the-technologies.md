@@ -35,6 +35,7 @@
 </svg>
 
 Note:
+- Tell that the technologies were new back then
 - Tell about Nodejs in Photoshop
 - Tell about why jQuery didn't fit
 - Tell about optimizations

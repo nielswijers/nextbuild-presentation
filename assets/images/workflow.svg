@@ -3708,7 +3708,7 @@ LwIvATkCNAJfAToCYQJhAWYCgQKDAWcChgKJAWoCjAKNAW4CjwKQAXA=")}
 ]]>
 </style>
 <g id="workflow">
-	<text transform="matrix(1 0 0 1 62.6527 327.4139)" style="fill:#FFFFFF; font-family:'SourceSansPro-Semibold'; font-size:41;">Request</text>
+	<text transform="matrix(1 0 0 1 62.6528 327.4139)" style="fill:#FFFFFF; font-family:'SourceSansPro-Semibold'; font-size:41;">Request</text>
 	<text transform="matrix(1 0 0 1 1005.7457 302.814)"><tspan x="0" y="0" style="fill:#FFFFFF; font-family:'SourceSansPro-Semibold'; font-size:41;">Awesome</tspan><tspan x="2.214" y="49.2" style="fill:#FFFFFF; font-family:'SourceSansPro-Semibold'; font-size:41;">Creatives</tspan></text>
 	<g>
 		<g>
@@ -3866,7 +3866,6 @@ IhQmxwwV/h0/BRgAuY65/3nFAM4AAAAASUVORK5CYII=" transform="matrix(1 0 0 1 695.0241
 		</g>
 		<text transform="matrix(1 0 0 1 716.3112 360.9208)" style="fill:#FFFFFF; font-family:'SourceSansPro-Semibold'; font-size:28;">Animating</text>
 		<text transform="matrix(1 0 0 1 723.8152 423.1659)" style="fill:#FFFFFF; font-family:'SourceSansPro-Semibold'; font-size:28;">Scripting</text>
-		<text transform="matrix(1 0 0 1 709.0036 485.4106)" style="fill:#FFFFFF; font-family:'SourceSansPro-Semibold'; font-size:28;">Duplicating</text>
 		<path style="fill:none;stroke:#FFFFFF;stroke-miterlimit:10;" d="M866.805,524.656H690.192c-15.426,0-27.932-12.505-27.932-27.932
 			V138.588c0-15.426,12.505-27.932,27.932-27.932h176.613c15.426,0,27.932,12.505,27.932,27.932v358.137
 			C894.736,512.15,882.231,524.656,866.805,524.656z"/>

@@ -63,5 +63,12 @@
     "41-new-clients.md",
     "41-open-source.md",
     "42-the-review.md",
+    {
+        "filename": "ff404.md",
+        "attr": {
+            "data-background-video": "assets/ghgcomp.mp4",
+            "data-background-video-loop": true
+        }
+    },
     "5-call-to-action.md"
 ]

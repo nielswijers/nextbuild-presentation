@@ -1,4 +1,4 @@
-# The good 'ld workflow
+# The good old workflow
 <img src="assets/images/workflow.svg" />
 
 Note:

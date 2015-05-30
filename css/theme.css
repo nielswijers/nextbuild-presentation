@@ -330,6 +330,8 @@ html {
 body {
   margin-top: 10px; }
 
+.reveal h1 {
+  text-shadow: none !important; }
 .reveal h2 {
   font-weight: 900; }
 .reveal h3 {

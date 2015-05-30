@@ -1,4 +1,4 @@
-##  Plugin System
+##  Plugin Eco System
 
 Note:
 - Tell about good things of designers
