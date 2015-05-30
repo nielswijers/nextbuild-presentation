@@ -15,7 +15,7 @@
 		c22.7,0,41,18.4,41,41v290C838,498.6,819.6,517,797,517z"/>
 </g>
 <g id="Angular" class="fragment">
-	<text transform="matrix(1 0 0 1 921.6999 221.6924)" fill="#FFFFFF" font-family="'OpenSans-Semibold'" font-size="60">Front-end</text>
+	<text transform="matrix(1 0 0 1 921.6999 221.6924)" fill="#FFFFFF" font-family="'OpenSans-Semibold'" font-size="60">Frontend</text>
 	<text transform="matrix(1 0 0 1 981.2458 313.2949)" fill="#FFFFFF" font-family="'OpenSans'" font-size="36">Angular.js</text>
 	<path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M1225.4,517h-322c-22.7,0-41-18.4-41-41V186c0-22.7,18.4-41,41-41
 		h322c22.7,0,41,18.4,41,41v290C1266.4,498.6,1248.1,517,1225.4,517z"/>
